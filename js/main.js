@@ -322,3 +322,13 @@ function portfolio_item_size(){
 		}
 	});
 }
+
+$('#proyectos').owlCarousel({
+	loop:true,
+	margin:10,
+	autoplay:true,
+	autoplayTimeout:3000,
+	autoplayHoverPause:true,
+	items: 1
+	
+});
