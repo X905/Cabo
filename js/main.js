@@ -34,8 +34,9 @@ $(window).on('load', function() {
 		event.preventDefault();
 	});
 
+	
 
-
+	
 	/*------------------
 		Background set
 	--------------------*/
